@@ -66,8 +66,6 @@ class MyBookings extends Component {
 }
 
 MyBookings.propTypes = {
-  getAllBookings: PropTypes.func,
-  getCarsBookings: PropTypes.func,
   bookings: PropTypes.object
 };
 
